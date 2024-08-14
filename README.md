@@ -9,4 +9,4 @@ The code hosted here on GitHub is actively maintained by the authors of the prep
 
 Example data has been included (example_data_bcr_fixed_bcell.csv), which comprises 5,000 frames of a whole B cell membrane captured using single molecule light field microscopy.
 
-<b>Note for Python users:</b> You may wish to try our recently released Python version of hexSMLFM produced in collaboration with "[Teledyne Photometrics](https://www.photometrics.com/)". This version of the code can be found on GitHub "[here](https://github.com/Photometrics/PySMLFM)".
+<b>Note for Python users:</b> You may wish to try our recently released Python version of hexSMLFM produced in collaboration with [Teledyne Photometrics](https://www.photometrics.com/). This version of the code can be found on GitHub [here](https://github.com/Photometrics/PySMLFM).
